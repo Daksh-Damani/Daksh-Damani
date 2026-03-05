@@ -17,7 +17,8 @@ I love turning **ideas into products** with clean architecture, efficient APIs, 
 #### 🔥 What I'm Working On  
 - <small>Building **full-fledged CRMs** (Dzylo-inspired)</small>  
 - <small>Creating **exam/test platforms** with auto-generated PDFs & answer keys</small>  
-- <small>Experimenting with **extreme grind study & productivity systems**</small>  
+- <small>Experimenting with **extreme grind study & productivity systems**</small>
+- <small>Creating **Cat's Paw**</small>  
 
 ---
 
@@ -32,12 +33,13 @@ I love turning **ideas into products** with clean architecture, efficient APIs, 
 - **Frontend:** <small>React, React Native, TailwindCSS</small>  
 - **Backend:** <small>Node.js, Express.js, Python</small>  
 - **Database:** <small>MySQL, Sequelize ORM</small>  
-- **Other Tools:** <small>Git, APIs, PDF generators, Automation tools</small>  
+- **Other Tools:** <small>Git, APIs, PDF generators, Automation tools</small>
+
 
 ---
 
 #### 📬 Connect With Me  
-- ✉️ <small>Email: `inquiry@dakshdamani.com`</small>  
+- ✉️ <small>Email: `dkshdamani@gmail.com`</small>  
 - 🌐 <small>LinkedIn: https://www.linkedin.com/in/daksh-damani-bb6aa2371</small>  
 - 🖥️ <small>GitHub: github.com/Daksh-Damani</small>  
 
