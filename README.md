@@ -13,6 +13,7 @@ Something crazy
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daksh-Damani&theme=radical">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Daksh-Damani&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-Damani&theme=radical">
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Daksh-Damani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
