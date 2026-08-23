@@ -13,9 +13,9 @@ Something crazy
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daksh-Damani&theme=radical">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Daksh-Damani&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-Damani&theme=radical">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Daksh-Damani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compac"t>
 
 </div>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Daksh-Damani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Daksh-Damani&theme=default&no-frame=false&no-bg=true&margin-w=4)
