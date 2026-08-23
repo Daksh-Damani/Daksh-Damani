@@ -17,7 +17,7 @@ Something crazy
 
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-Damani&theme=radical">
 
-<img height="169em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Daksh-Damani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img height="169em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Daksh-Damani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 </div>
 
